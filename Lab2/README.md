@@ -79,8 +79,8 @@ nav ul li {
 1. Open the `recipe_css.html` file in a web browser.
 2. Verify that the layout is updated with the navigation on the left and fixed while scrolling like the pictures below.
 
-![recipe_page1](recipe_page1.png)
-![recipe_page2](recipe_page2.png)
+![img/recipe_page1](img/recipe_page1.png)
+![img/recipe_page2](img/recipe_page2.png)
 
 
 ---
