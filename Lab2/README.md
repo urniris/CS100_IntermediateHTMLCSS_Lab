@@ -8,8 +8,8 @@ By the end of this lab, students will update an HTML and CSS file for the Grandm
 ---
 
 ### Files Needed:
-- `recipe_css.html` (provided)
-- `styles.css` (provided)
+- ![`recipe_css.html`](recipe_css.html) (provided)
+- ![`styles.css`](styles.css) (provided)
 
 ---
 
@@ -78,6 +78,10 @@ nav ul li {
 ### Step 6: Testing the Layout
 1. Open the `recipe_css.html` file in a web browser.
 2. Verify that the layout is updated with the navigation on the left and fixed while scrolling like the pictures below.
+
+![recipe_page1](recipe_page1.png)
+![recipe_page2](recipe_page2.png)
+
 
 ---
 
