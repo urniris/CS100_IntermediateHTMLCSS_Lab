@@ -48,3 +48,45 @@ This file contains the structure we will style using CSS.
    - Set the `box-sizing` property so that padding and border are included in the width and height.
 ```css
 ```
+
+---
+### Step 3: Styling the Page Body
+- Add the following styles to your CSS file under the previous code:
+    - Set font family to Arial for better readability.
+```css
+```
+
+---
+### Step 4: Styling the Header, Nav, Article, Ads, and Footer
+- Add the following CSS rules to style the page sections:
+    - Allow space 10px around the content.
+    - Use yellow background to match the design.
+    - Add borders as gray color solid lines to separate each section.
+    - Center the text in each section.
+```css
+```
+
+---
+### Step 5: Positioning the Layout Using Floats
+- Add the following CSS code to position the layout:
+    - Assign width percentages to header and footer to 100%.
+    - Position the nav, article, and div elements side by side using float.
+    - Assign width percentages to each remaining section: 20% for nav and div, and 60% for article. Set a height of these elements to 200px for visualization purposes.
+    - Ensures the footer appears below the nav, article, and div sections.
+```css
+```
+
+---
+### Step 6: Testing the Layout
+- Open the index.html file in a web browser.
+- Verify that the layout appears as follows:
+    - The header spans the full width of the page.
+    - The nav, article, and div sections are side by side.
+    - The footer spans the full width at the bottom of the page.
+
+---
+### Extension Task (Optional 10-15 minutes): Customize the Layout
+- As an additional task, students can experiment with the following:
+    - Change the colors of the sections.
+    - Adjust the widths of the nav, article, and div.
+    - Add more content to each section.
