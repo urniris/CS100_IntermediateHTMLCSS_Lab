@@ -6,7 +6,7 @@
 This lab teaches students how to create a simple web page layout using HTML and CSS. Students will apply floats and basic styling to divide a web page into sections based on a given design.
 
 ### Files Needed
-- `index.html` (provided)
+- [`index.html`](index.html) (provided)
 - `layout.css` (to be created)
 
 ---
