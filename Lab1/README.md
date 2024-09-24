@@ -40,7 +40,7 @@ This file contains the structure we will style using CSS.
 - In your code editor, create a new file and name it `layout.css`.
 - In the `<head>` section of `index.html`, link the CSS file:
 ```css
-```
+``` 
 
 - Write a CSS rule in `layout.css` to perform the following:
    - Set all the margins and padding for all HTML elements to be zero to ensure consistent rendering across different browsers.
@@ -53,7 +53,7 @@ This file contains the structure we will style using CSS.
 ### Step 3: Styling the Page Body
 - Add the following styles to your CSS file under the previous code:
     - Set font family to Arial for better readability.
-```css
+```css 
 ```
 
 ---
